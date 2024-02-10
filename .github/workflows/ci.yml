@@ -1,6 +1,7 @@
 name: Futurerestore
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - cryptex
